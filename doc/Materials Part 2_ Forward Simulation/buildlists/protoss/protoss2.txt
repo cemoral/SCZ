@@ -1,0 +1,10 @@
+Probe
+Probe
+Pylon
+Assimilator
+Gateway
+Assimilator
+CyberneticsCore
+Stargate
+FleetBeacon
+Mothership

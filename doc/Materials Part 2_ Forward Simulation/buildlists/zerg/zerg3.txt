@@ -1,0 +1,11 @@
+Drone
+Drone
+Overlord
+Drone
+SpawningPool
+Queen
+Zergling
+Zergling
+Zergling
+Zergling
+Roach
