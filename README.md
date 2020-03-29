@@ -2,7 +2,7 @@
 
 SCZ is a thesis project using C++, CMAKE.
 
-## Installatin
+## Installation
 
 Only use Cmake and .sh files into root folder.
 
